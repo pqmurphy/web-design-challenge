@@ -1,0 +1,24 @@
+.container-bg {
+  background:#CADBC8;
+  padding: 30px;
+  border-radius: 5px;
+  margin: 0px 0px 32px;
+}
+
+.container-bg2 {
+  background:#BDD4E7;
+  padding: 30px;
+  border-radius: 5px;
+  margin: 0px 0px 32px;
+}
+
+.container-bg3 {
+  background:#e9ecef;
+  padding: 30px;
+  border-radius: 5px;
+  margin: 0px 0px 32px;
+}
+
+body {
+  background:#F7F9F9;
+}
